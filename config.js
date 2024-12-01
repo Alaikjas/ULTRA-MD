@@ -6,7 +6,7 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const defaultOwner = '99440';
+const defaultOwner = '‎994403718216';
 
 
 // Check for the OWNERS environment variable; if not found, use the default
